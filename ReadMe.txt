@@ -1,7 +1,8 @@
 Hello recruiter person!
 
-This is my current project I'm developing completely alone with GameMaker.
-It is a 2D platformer game set in a dystopic future where candy is heavily regulated. You play as an agent called Jane Hander, and it is your job to confiscate all the illegal candies!
+This is my current project I'm developing completely alone with GameMaker. Here are some sample stuff, like code I've written (in the objects).
+
+This is a 2D platformer game set in a dystopic future where candy is heavily regulated. You play as an agent called Jane Hander, and it is your job to confiscate all the illegal candies!
 
 This is the first full-length game I'm developing. I use a lot of my free time on it.
 
